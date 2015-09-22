@@ -1,9 +1,13 @@
  .main {
   font-family: Helvetica;
   border-style: dashed;
-  width: 85%;
   padding-left: 15px;
   padding-right: 5px;
+  background: rgb(180, 205, 205);
+}
+
+.movies {
+  border-style: dashed;
   background: rgb(180, 205, 205);
 }
 
@@ -26,7 +30,7 @@ footer {
 }
 
 img {
-  max-width: 25%;
+  max-width: 20%;
   border: 3px solid;
 }
 
