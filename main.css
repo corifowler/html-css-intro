@@ -1,0 +1,45 @@
+header {
+  color: white;
+  text-align: center;
+  font-family: Helvetica;
+  background-image: url(http://lorempixel.com/900/100);
+}
+
+footer {
+  text-align: center;
+  font-family: Helvetica;
+  color: blue;
+  padding-top: 10px;
+}
+
+li {
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+p span {
+  color: orange;
+  font-weight: bold;
+  font-family: fantasy;
+}
+
+ div.main {
+  font-family: Helvetica;
+  border-style: dashed;
+  padding-left: 15px;
+  padding-right: 5px;
+}
+
+a.movielink {
+  font-style: italic;
+  font-weight: bold;
+}
+
+ul.square {
+  list-style: square inside;
+}
+
+.textwrap {
+  float: left;
+  margin: 15px;
+}
