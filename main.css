@@ -4,6 +4,7 @@
   width: 85%;
   padding-left: 15px;
   padding-right: 5px;
+  background: rgb(180, 205, 205);
 }
 
 header {
@@ -20,9 +21,13 @@ footer {
   padding-top: 10px;
 }
 
+.main h2 {
+  text-align: center;
+}
+
 img {
   max-width: 25%;
-  border: 3px solid black;
+  border: 3px solid;
 }
 
 ul.square {
