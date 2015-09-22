@@ -1,6 +1,7 @@
- div.main {
+ .main {
   font-family: Helvetica;
   border-style: dashed;
+  width: 85%;
   padding-left: 15px;
   padding-right: 5px;
 }
@@ -17,6 +18,11 @@ footer {
   font-family: Helvetica;
   color: blue;
   padding-top: 10px;
+}
+
+img {
+  max-width: 25%;
+  border: 3px solid black;
 }
 
 ul.square {
