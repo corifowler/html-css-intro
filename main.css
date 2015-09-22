@@ -1,5 +1,8 @@
- .main {
+ body {
   font-family: Helvetica;
+ }
+
+ .main {
   border-style: dashed;
   padding-left: 15px;
   padding-right: 5px;
